@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Jay Patil
+- Roll Number: 2024-B-24032006D
+- GitHub Username: Jaypatil25
 
 ---
 
